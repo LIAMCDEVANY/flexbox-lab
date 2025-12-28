@@ -27,7 +27,7 @@ The page was broken into the following sections and styled individually using Fl
 - nested flex containers
 
 ## Live Site
-🌐 https://<your-username>.github.io/flexbox-lab/
+🌐 https://liamcdevany.github.io/flexbox-lab/
 
 ---
 
